@@ -2,3 +2,53 @@
 *.exe
 *.obj
 *.json
+OpenGL RTR Assignments/Fixed Function PipeLine/20HorizontalLinesEquallySpaced/EquallySpacedHorLines/.vs/EquallySpacedHorLines/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/20HorizontalLinesEquallySpaced/EquallySpacedHorLines/Debug/EquallySpacedHorLines.ilk
+OpenGL RTR Assignments/Fixed Function PipeLine/20HorizontalLinesEquallySpaced/EquallySpacedHorLines/EquallySpacedHorLines.sln
+OpenGL RTR Assignments/Fixed Function PipeLine/20HorizontalLinesEquallySpaced/EquallySpacedHorLines/EquallySpacedHorLines.VC.db
+OpenGL RTR Assignments/Fixed Function PipeLine/20HorizontalLinesEquallySpaced/EquallySpacedHorLines/Debug/EquallySpacedHorLines.pdb
+OpenGL RTR Assignments/Fixed Function PipeLine/20HorizontalLinesEquallySpaced/EquallySpacedHorLines/EquallySpacedHorLines/Debug/EquallyS.71818CC1.tlog/CL.write.1.tlog
+*.tlog
+*.idb
+*.log
+*.pdb
+*.vcxproj
+*.filters
+*.ipdb
+OpenGL RTR Assignments/Fixed Function PipeLine/20HorizontalLinesEquallySpaced/GLUT/Horizontal20Lines/.vs/Horizontal20Lines/v14/.suo
+*.sln
+*.ilk
+*.iobj
+OpenGL RTR Assignments/Fixed Function PipeLine/6-8-2017/GLUT/RoboticArm/.vs/RoboticArm/v14/.suo
+*.db
+OpenGL RTR Assignments/Fixed Function PipeLine/6-8-2017/NATIVE/DifferentShapes/.vs/DifferentShapes/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/6-8-2017/NATIVE/DynamicINDIA/.vs/DynamicINDIA/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/6-8-2017/NATIVE/RoboticArm/.vs/RoboticArm/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/6-8-2017/NATIVE/StaticINDIA/.vs/StaticINDIA/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/CircleOnGraphPaperUsingPoints/CircleUsingPoints/.vs/CircleUsingPoints/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/CoCentricTraingles/CoCentricTraingles/.vs/CoCentricTraingles/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/Cube/Cube/.vs/Cube/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/Cube/Cube/.vs/Cube/v16/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/CubeWithoutUsingTransformationFunc/CubeWithoutTransFrmFunc/.vs/CubeWithoutTransFrmFunc/v14/.suo
+*.opendb
+*.user
+*.ipch
+OpenGL RTR Assignments/Fixed Function PipeLine/DeathlyHallowsSign/GLUT/DeathlyHallowsSign/.vs/DeathlyHallowsSign/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/DifferentShapes/.vs/DifferentShapes/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/DoubleBufferOpenGLWindow/DoubleBufferBasicOpenGLWindow/.vs/DoubleBufferBasicOpenGLWindow/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/DoubleBufferWithTriangle/DoubleBufferWithTriangle/.vs/DoubleBufferWithTriangle/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/DoubleBufferOpenGLWindow/GLUT/DoubleBufferWindow/.vs/DoubleBufferWindow/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/DynamicINDIA/.vs/DynamicINDIA/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/FunctionsForAllShapes/CommonFunctions/.vs/CommonFunctions/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/glOrthoResize/SquareUsinglOrtho/.vs/SquareUsinglOrtho/v14/.suo
+OpenGL RTR Assignments/Fixed Function PipeLine/glPerspectiveResize/SquareUsingPerspective/SquareUsingPerspective/.vs/SquareUsingPerspective/v14/.suo
+*.txt
+*.aps
+*.res
+*.rc
+*.jpg
+*.mtl
+*.bmp
+OpenGL RTR Assignments/Fixed Function PipeLine/Texture/TextureWithTweak/TextureWithTweak/resource.h
+OpenGL RTR Assignments/Fixed Function PipeLine/Texture/SingleRectangleWithTexture/SingleRectangleWithTexture/resource.h
+OpenGL RTR Assignments/Fixed Function PipeLine/Texture/3D-Texture/3DTexture/resource.h
